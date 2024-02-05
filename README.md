@@ -14,7 +14,7 @@ View [GitHub - Project 0](https://github.com/kennethtl0522/cs2400P0) for detail.
 Visit [Vimeo](https://vimeo.com/909956414?share=copy) for the screencast video.
 > [!important] 
 > Due to video time constraints, many uses of git are not shown. I tried some other git command lines outside of the video, see screenshots for more.
-
+[Screenshot 2024-02-05 013532.png]
  
 ## About
 Screencast software: OBS 29.1.1
